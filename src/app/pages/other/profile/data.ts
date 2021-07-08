@@ -2,17 +2,17 @@ const activities = [
     {
         time: '02 hours ago',
         title: 'Designing Shreyu Admin',
-        text: 'PenguinsCleaning-Administrator template'
+        text: 'Dental24+ Administrator'
     },
     {
         time: '21 hours ago',
         title: 'UX and UI for Ubold Admin',
-        text: 'Ubold Admin - A responsive admin and dashboard template'
+        text: 'Dental24+ Administrator'
     },
     {
         time: '22 hours ago',
         title: 'UX and UI for Hyper Admin',
-        text: 'Hyper Admin - A responsive admin and dashboard template'
+        text: 'Dental24+ Administrator'
     },
 ];
 
